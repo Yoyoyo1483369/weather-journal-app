@@ -1,0 +1,7 @@
+[build]
+  command = "node server.js"
+  publish = "website"
+
+[dev]
+  command = "node server.js"
+  port = 8500
